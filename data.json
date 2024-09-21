@@ -1,0 +1,37 @@
+{
+  "helper_name": "Emily Van Kley",
+  "helper_email": "emily@gmail.com",
+  "children": [
+    {
+      "ref": "F123AB",
+      "age": 15,
+      "gender": "Female",
+      "shoe_size": "",
+      "clothing_size": "",
+      "list": "Makeup/beauty products , Books (loves anything to do with royalty or things like vampires and werewolves), Sweatshirts/hoodies size 3/4XL"
+    },
+    {
+      "ref": "123456",
+      "age": 1,
+      "gender": "Female",
+      "shoe_size": "",
+      "clothing_size": "",
+      "list": "Makeup/beauty products , Books (loves anything to do with royalty or things like vampires and werewolves), Sweatshirts/hoodies size 3/4XL"
+    },
+    {
+      "ref": "987654",
+      "age": 30,
+      "gender": "Female",
+      "shoe_size": "XL",
+      "clothing_size": "Medium",
+      "list": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ],
+  "drop_off": [
+    {
+      "date": "Monday, Nov 13th",
+      "time": "7:30-3:30",
+      "address": "Four Oaks, 6900 NE 14th St, Ankeny"
+    }
+  ]
+}
